@@ -67,8 +67,3 @@ Displays an individual note with its title, content, and a delete button. Clicki
 
 The app is built using React, a popular JavaScript library for building user interfaces. It doesn't rely on any external UI frameworks or libraries. The Material-UI components have been commented out in the code, but you can uncomment them if you wish to use Material-UI styling and icons.
 
-
-
----
-
-Feel free to customize this README to match your project's specifics and requirements. Good luck with your note-taking app!
